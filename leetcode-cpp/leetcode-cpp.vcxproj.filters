@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="problems\p0001-two-sum\solution.cpp">
+    <ClCompile Include="solutions\0001_two_sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="problems\p0001-two-sum\test_solution.cpp">
+    <ClCompile Include="tests\0001_two_sum_test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

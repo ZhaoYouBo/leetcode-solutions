@@ -5,6 +5,15 @@
 # JetBrains IDE
 .idea/
 
+# C++
+x64/
+
+# Java
+target/
+
+# Python
+__pycache__/
+
 # Node.js
 node_modules/
 
